@@ -1,20 +1,6 @@
 # Data-Sets
 Public Data Sets
 
-Government
-----------
-        
-* |OK_ICON| `Alberta, Province of Canada <http://open.alberta.ca>`_
-        
-* |OK_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
-        
-* |FIXME_ICON| `Argentina (non official) <http://datar.noip.me/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
-        
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. [...] <http://datos.gob.ar/>`_
-        
-* |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_
-        
-* |OK_ICON| `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 ImageProcessing
 ---------------
         
