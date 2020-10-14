@@ -38,5 +38,27 @@ MachineLearning
 *  `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
 *  `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
+* |`Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
+*  `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
+        
+*  `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
+        
+*  `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
+        
+*  `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
+        
+*  `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
+        
+*  `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`_
+        
+*  `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
+        
+*  `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
+        
+*  `YouTube-BoundingBoxes <https://research.google.com/youtube-bb/>`_
+        
+*  `Youtube 8m <https://research.google.com/youtube8m/download.html>`_
+        
+*  `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
 
