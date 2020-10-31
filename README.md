@@ -1,9 +1,19 @@
 # Data-Sets
 Public Data Sets
 
-ImageProcessing
----------------
         
+*  `Alberta, Province of Canada <http://open.alberta.ca>`
+        
+*  `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`
+        
+*  `Argentina (non official) <http://datar.noip.me/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
+        
+*  `Datos Argentina - Portal de datos abiertos de la República Argentina. [...] <http://datos.gob.ar/>`
+        
+*  `Austin, TX, US <https://data.austintexas.gov/>`
+        
+*  `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
+
 *  `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
         
 *  `2GB of Photos of Cats <https://www.kaggle.com/crawford/cat-dataset/version/2>`_
@@ -13,6 +23,9 @@ ImageProcessing
 *  `Affective Image Classification <http://www.imageemotion.org/>`_
         
 *  `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
+
+*  `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
+
 
 MachineLearning
 ---------------
