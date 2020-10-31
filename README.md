@@ -1,8 +1,6 @@
 # Data-Sets
 Public Data Sets
 
-Government
-----------
         
 *  `Alberta, Province of Canada <http://open.alberta.ca>`
         
@@ -15,9 +13,7 @@ Government
 *  `Austin, TX, US <https://data.austintexas.gov/>`
         
 *  `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
-ImageProcessing
----------------
-        
+
 *  `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
         
 *  `2GB of Photos of Cats <https://www.kaggle.com/crawford/cat-dataset/version/2>`_
